@@ -41,7 +41,9 @@
 
 ## วิธีใช้งานโปรเจค
 - 1.ติดตั้ง node.js
-- 2.เปิด terminal แล้วใช้คำสั่ง "npm install" ในโฟลเดอร์ของโปรเจค
-- 3.terminal จะแสดง local ip ที่จะใช้งานโปรเจคผ่าน web browser ได้
+- 2.เปิด terminal แล้วใช้คำสั่ง ```npm install``` ในโฟลเดอร์ของโปรเจค
+- 3.ใช้คำสั่ง ```npm run serve``` ใน terminal
+- 3.terminal จะแสดง local ip ที่สามารถคลิกเพื่อเข้าใช้งานโปรเจคผ่าน web browser ได้
 
 ## Screenshot
+![firstScene](screenshot/1.jpg)
