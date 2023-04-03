@@ -48,3 +48,6 @@
 ## Screenshot
 หน้าแรก
 ![firstScene](screenshot/1.jpg)
+<p align="center">
+  <img width="460" height="300" src="screenshot/1.jpg">
+</p>
