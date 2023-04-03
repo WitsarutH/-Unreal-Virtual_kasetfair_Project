@@ -48,5 +48,5 @@
 ## Screenshot
 <p align="center">
    หน้าแรก
-  ![first](screenshot/1.jpg)
 </p>
+![first](screenshot/1.jpg)
