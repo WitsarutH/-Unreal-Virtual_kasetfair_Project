@@ -46,4 +46,5 @@
 - 3.terminal จะแสดง local ip ที่สามารถคลิกเพื่อเข้าใช้งานโปรเจคผ่าน web browser ได้
 
 ## Screenshot
+หน้าแรก
 ![firstScene](screenshot/1.jpg)
