@@ -49,4 +49,4 @@
 <p align="center">
    หน้าแรก
 </p>
-![My Image](screenshot/1.jpg)
+![firstScene](screenshot/1.jpg)
