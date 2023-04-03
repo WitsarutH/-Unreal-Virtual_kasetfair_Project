@@ -46,4 +46,23 @@
 - 3.terminal จะแสดง local ip ที่สามารถคลิกเพื่อเข้าใช้งานโปรเจคผ่าน web browser ได้
 
 ## Screenshot
+
 ![firstScene](screenshot/1.jpg)
+
+![marketScene](screenshot/2.jpg) 
+
+![marketGUI1](screenshot/3.jpg)
+
+![marketGUI2](screenshot/6.jpg)
+
+![marketGUI2](screenshot/6.jpg)
+
+![cartGUI](screenshot/7.jpg)
+
+![buysuccess](screenshot/8.jpg)
+
+![view1](screenshot/4.jpg)
+
+![view2](screenshot/5.jpg)
+
+![view3](screenshot/9.jpg)
