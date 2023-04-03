@@ -38,3 +38,10 @@
 - ทำส่วนของ 3PP, virtualJoyStick(ไม่สมบูรณ์)
 - เพิ่มส่วนของหน้า loading และ background audio
 - ทำให้ใช้ Cardboard VR ได้
+
+## วิธีใช้งานโปรเจค
+- 1.ติดตั้ง node.js
+- 2.เปิด terminal แล้วใช้คำสั่ง "npm install" ในโฟลเดอร์ของโปรเจค
+- 3.terminal จะแสดง local ip ที่จะใช้งานโปรเจคผ่าน web browser ได้
+
+## Screenshot
